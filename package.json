@@ -1,0 +1,51 @@
+{
+  "name": "calming-theme",
+  "displayName": "Calming Theme",
+  "version": "1.0.0",
+  "publisher": "diff001a",
+  "description": "Eye-calming theme with pink color palette. enjoy!!",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "auth": {
+    "name": "diff001a",
+    "email": "diff001a@gmail.com",
+    "url": "https://github.com/diff001a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diff001a/CalmingTheme"
+  },
+  "bugs": {
+    "url": "https://github.com/diff001a/CalmingTheme/issues"
+  },
+  "galleryBanner": {
+    "color": "#353042",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "theme",
+    "pink",
+    "cute",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calming Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/calming.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "93172670-e4b2-4a24-b65f-f223a44fc345",
+    "publisherDisplayName": "diff001a",
+    "publisherId": "0812fed2-99a4-40f9-b427-f63b4d62e295"
+  }
+}
